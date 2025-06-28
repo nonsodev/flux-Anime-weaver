@@ -177,7 +177,7 @@ graph TD
 
 <div align="center">
 
-| Magical Girls | Samurai Warriors | Fantasy Landscapes |
+| Magical Girls | Samurai Warriors | Futuristic Mech|
 |---------------|------------------|-------------------|
 | ![Magical Girl](magical-girl.png) | ![Samurai](ancient-samurai.png) | ![futuristic Mech](futuristic-mech.png) |
 | *Vibrant colors, studio quality* | *Traditional art style* | *Cinematic lighting* |
