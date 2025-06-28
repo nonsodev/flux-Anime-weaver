@@ -174,13 +174,12 @@ graph TD
 
 ## 🎨 Gallery
 
-> **Note**: Add your generated images here to showcase the quality!
 
 <div align="center">
 
 | Magical Girls | Samurai Warriors | Fantasy Landscapes |
 |---------------|------------------|-------------------|
-| ![Magical Girl](https://via.placeholder.com/200x200?text=Magical+Girl) | ![Samurai](https://via.placeholder.com/200x200?text=Samurai) | ![Landscape](https://via.placeholder.com/200x200?text=Fantasy) |
+| ![Magical Girl](magical-girl.png) | ![Samurai](ancient-samurai.png) | ![futuristic Mech](futuristic-mech.png) |
 | *Vibrant colors, studio quality* | *Traditional art style* | *Cinematic lighting* |
 
 </div>
@@ -353,7 +352,7 @@ MIT License - Feel free to use, modify, and distribute!
 
 [![GitHub Stars](https://img.shields.io/github/stars/nonsodev/flux-Anime-weaver?style=social)](https://github.com/nonsodev/flux-Anime-weaver/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/nonsodev/flux-Anime-weaver?style=social)](https://github.com/nonsodev/flux-Anime-weaver/network/members)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://x.com/@nonsodev)
 
 </div>
 
