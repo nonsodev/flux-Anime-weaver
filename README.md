@@ -352,7 +352,7 @@ MIT License - Feel free to use, modify, and distribute!
 
 [![GitHub Stars](https://img.shields.io/github/stars/nonsodev/flux-Anime-weaver?style=social)](https://github.com/nonsodev/flux-Anime-weaver/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/nonsodev/flux-Anime-weaver?style=social)](https://github.com/nonsodev/flux-Anime-weaver/network/members)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://x.com/@nonsodev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/?style=social)](https://x.com/@nonsodev)
 
 </div>
 
